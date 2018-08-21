@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Hello Git Workshop");	
 		System.out.println("Primer cambio 85'");
 		System.out.println("Ultimo cambio 94'");
+		System.out.println(".");
 		}
 }
